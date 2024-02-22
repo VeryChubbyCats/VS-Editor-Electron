@@ -12,7 +12,7 @@ This Editor is not meant to be complicated.
 
 This Editor is meant to be simple and easy to use.
 
-# Why does this Editor use Electron?
+# Why does VS Editor use Electron?
 
 So I wouldn't have to create another application for other operating system's.
 
