@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+
+:root {
+    color-scheme: dark;
+}
+
+body {
+    background: #2b2b2b;
+    margin: 1rem;
+    padding: 0;
+}
+
+.Anta_Font {
+    font-family: "Anta", sans-serif;
+}
+
+.NoSelect {
+    user-select: none;
+}
+
+header {
+    background: #1c1c1c;
+    border: 0 solid transparent;
+    border-radius: 1rem;
+    width: 50rem;
+    padding: 1rem;
+}
+
+.Title {
+    color: white;
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+
+}
+
+.Edit_Container {
+    background: #1c1c1c;
+    border: 0 solid transparent;
+    border-radius: 1rem;
+    width: 50rem;
+    height: 50rem;
+    margin: 1rem;
+    padding: 1rem;
+}
