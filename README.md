@@ -22,3 +22,5 @@ This application was developed on linux using electron.
 
 Here are some Image's and picture's of how the application look's.
 
+
+![Screenshot from 2024-02-22 22-27-32](https://github.com/VeryChubbyCats/VS-Editor-Electron/assets/159707613/88b288a1-b361-4e9f-9db2-0902b60ead09)
